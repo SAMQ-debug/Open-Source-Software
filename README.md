@@ -1,7 +1,7 @@
 
-# Open Source Software Audit Project
+Open Source Software Audit Project
 
-## Project Overview
+ Project Overview
 
 This repository contains my Open Source Software audit project completed as part of the Open Source Software course at VIT Bhopal. The objective of this project is to explore how open-source software works within a Linux environment and to understand the philosophy, ecosystem, and technical structure behind widely used FOSS tools.
 
@@ -9,9 +9,7 @@ For this audit, I selected **Python** as the primary open-source software. Pytho
 
 Through this project, I examined Python's presence in a Linux system and implemented a set of shell scripts to analyze system information, software installation, file permissions, log files, and open-source philosophy.
 
----
-
-## Selected Open Source Software
+ Selected Open Source Software
 
 | Property | Value |
 |----------|-------|
@@ -29,7 +27,6 @@ Python was created by Guido van Rossum and first released in 1991. It was design
 
 Because Python is open-source, developers around the world can contribute to its development and improve its ecosystem.
 
----
 
 ## Project Objectives
 
@@ -41,7 +38,6 @@ The main objectives of this project were:
 4. To inspect system information, packages, logs, and directories using automation scripts.
 5. To document observations and learn how open-source ecosystems function.
 
----
 
 ## Repository Structure
 
